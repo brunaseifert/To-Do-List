@@ -1,0 +1,1 @@
+# Nenhuma dependência externa. Apenas o Python.
